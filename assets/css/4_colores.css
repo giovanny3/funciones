@@ -1,0 +1,14 @@
+/*Requerimiento 3*/
+
+* {
+margin: 0;
+box-sizing: border-box;
+}
+
+.contenedor-colores{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 1rem;
+}
